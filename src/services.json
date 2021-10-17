@@ -1,0 +1,38 @@
+  [
+    { "id": 1,
+     "name": "replace tire", 
+     "price": "5000", 
+     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A adipisci doloremque, veniam rem distinctio atque ut maxime ipsum temporibus deserunt dignissimos commodi fugiat. Aspernatur at dolor numquam. Quos, minima alias.",
+      "img": "https://i.ibb.co/vvkjT02/Background-1.png"},
+
+      { "id": 2,
+      "name": "Andru tre", 
+      "price": "5000", 
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A adipisci doloremque, veniam rem distinctio atque ut maxime ipsum temporibus deserunt dignissimos commodi fugiat. Aspernatur at dolor numquam. Quos, minima alias.",
+       "img": "https://ibb.co/fDmQxGc"},
+
+       { "id": 3,
+       "name": "Adam milne", 
+       "price": "5000", 
+       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A adipisci doloremque, veniam rem distinctio atque ut maxime ipsum temporibus deserunt dignissimos commodi fugiat. Aspernatur at dolor numquam. Quos, minima alias.",
+        "img": "https://ibb.co/TvxZcsk"},
+
+        { "id": 4,
+        "name": "Haris khan", 
+        "price": "5000", 
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A adipisci doloremque, veniam rem distinctio atque ut maxime ipsum temporibus deserunt dignissimos commodi fugiat. Aspernatur at dolor numquam. Quos, minima alias.",
+         "img": "https://ibb.co/tLvHBCH"},
+
+         { "id": 5,
+         "name": "Josep lamba", 
+         "price": "5000", 
+         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A adipisci doloremque, veniam rem distinctio atque ut maxime ipsum temporibus deserunt dignissimos commodi fugiat. Aspernatur at dolor numquam. Quos, minima alias.",
+          "img": "https://ibb.co/6B5GxfJ"},
+
+          { "id": 6,
+          "name": "Kiran kumar", 
+          "price": "5000", 
+          "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A adipisci doloremque, veniam rem distinctio atque ut maxime ipsum temporibus deserunt dignissimos commodi fugiat. Aspernatur at dolor numquam. Quos, minima alias.",
+           "img": "https://ibb.co/7YpdznY"}
+      
+]
