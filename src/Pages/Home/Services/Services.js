@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Booking from '../../Booking/Booking/Booking';
 
 import Service from '../Service/Service';
 import './Services.css';
@@ -16,7 +17,7 @@ const Services = () => {
         .then(data => setServices(data));
     },[])
     return (
-        <div>
+        <div id="services">
             <h2 className="text-danger mt-5">Our Services</h2>
             <div className="service-container">
 
@@ -24,8 +25,13 @@ const Services = () => {
     services.map(service => <Service
     key={service.id}
     service = {service}
-    ></Service>)
+    ></Service>
+    )
+
+    
 }
+
+
             
         </div>
         </div>
